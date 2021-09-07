@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deryabuder&layout=compact)](https://github.com/deryabuder/github-readme-stats)
+![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deryabuder&theme=dracula)](https://github.com/deryabuder/github-readme-activity-graph)
+
+
+
 <!--
 **deryabuder/deryabuder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
