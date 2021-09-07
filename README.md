@@ -2,9 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deryabuder&layout=compact)](https://github.com/deryabuder/github-readme-stats)
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=deryabuder&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/deryabuder/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deryabuder&theme=dracula)](https://github.com/deryabuder/github-readme-activity-graph)
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![](https://visitor-badge.glitch.me/badge?page_id=littleTreeme)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deryabuder&theme=dracula)](https://github.com/deryabuder/github-readme-activity-graph)
 
 
 
